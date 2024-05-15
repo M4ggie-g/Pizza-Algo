@@ -1,2 +1,4 @@
-Step 1: Order the Pizza
-Step 2: Wait for the delivery 
+Step 1: choose the pizza place
+Step 2: choose your pizza
+step 2a: choose your toppings
+step 3: order and enjoy!
